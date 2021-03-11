@@ -1,5 +1,44 @@
-### Hi there 👋
-
-I am Ajinkya, a Software Engineer from Nagpur, India.
-
-[![Website Badge](https://img.shields.io/badge/-Website-purple?style=?style=flat-square&logo=google%20chrome&logoColor=white&link=https://ajinkyabawaskar.hithub.io)](https://ajinkyabawaskar.github.io) [![Facebook Badge](https://img.shields.io/badge/-Ajinkya%20Bawaskar-blue?style=flat-circle&logo=facebook&logoColor=white&link=https://www.facebook.com/ajinkyabawaskar.5)](https://www.facebook.com/ajinkyabawaskar.5) [![Twitter Badge](https://img.shields.io/badge/-ajinkyabawaskar-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ajinkyabawaskar)](https://twitter.com/ajinkyabawaskar)  [![Linkedin Badge](https://img.shields.io/badge/ajinkyabawaskar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajinkyabawaskar//)](https://www.linkedin.com/in/ajinkyabawaskar/) [![Gmail Badge](https://img.shields.io/badge/-ajinkyabawaskar2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajinkyabawaskar2@gmail.com)](mailto:ajinkyabawaskar2@gmail.com) 
+```json
+{
+  "meta": {
+    "self": "Web Profile of Ajinkya Bawaskar",
+    "contains" : [
+      "personal",
+      "education",
+      "skills",
+      "projects",
+      "workExperience",
+      "otherRelevantExperience"
+    ]
+  },
+  "personal": {
+    "name": "Ajinkya Bawaskar",
+    "fullName": "Ajinkya Gajanan Bawaskar",
+    "pronouns": "he/his",
+    "age": 22
+  },
+  "education": {
+    "graduation": {
+      "degree": "Bachelor Of Engineering",
+      "majors": "Computer Science & Engineering",
+      "university": "SGBAU, Amravati, India",
+      "score": "8.09/10 CGPA",
+      "duration": "2016-2020"
+    },
+    "higherSecondary": {
+      "degree": "Higher Secondary (10+2)",
+      "major": "Computer Science",
+      "university": "Maharashtra State Board, Pune, India",
+      "score": "74.09%",
+      "duration": "2015-2016"
+    },
+    "secondary": {
+      "degree": "Secondary Education",
+      "major": null,
+      "university": "CBSE, Delhi, India",
+      "score": "10 CGPA",
+      "duration": "2014-2015"
+    }
+  }
+}
+```
